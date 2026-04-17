@@ -19,6 +19,7 @@
             <a href="edu_table.php" class="btn btn-success mx-2">Education Records</a>
             <a href="emp_table.php" class="btn btn-warning mx-2">Employment Records</a>
             <a href="temp_table.php" class="btn btn-dark mx-2">Temporary Records</a>
+            <a href="temp_table.php" class="btn btn-dark mx-2"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum esse blanditiis fugiat perferendis, vero enim iusto maxime perspiciatis odit, minima inventore fuga, tempore libero. Voluptatibus id ipsam provident sed rem.</a>
         </div>
 
         <div id="personal" class="record-section d-none"></div>
